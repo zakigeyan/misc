@@ -1,2 +1,3 @@
 # Misc
-Miscellaneous skills
+
+Miscellaneous skills for games, not some serious things.
